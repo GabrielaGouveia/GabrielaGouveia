@@ -2,7 +2,7 @@
 
 
 - 🔭 Estudante de análise  e  desenvolvimento de sistema
-- 🌱 I’m currently learning  JavaScript
+- 🌱 No momento me aprofundando em JavaScript
 -  📚 Estou a procura do meu primeiro estágio como dev
 - 💻 Interesse em frontend e muita curiosidade para aprender
 <div style="display: inline_block"><br>
