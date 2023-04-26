@@ -1,4 +1,4 @@
-### Hi ther! Meu nome é Gabriela Gouveia!
+### Olá ! Meu nome é Gabriela Gouveia!
 
 
  Estudante de Análise e desenvolvimento de sistema, estou a procura do meu primeiro estágio como dev front-end.
